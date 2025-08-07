@@ -97,7 +97,7 @@ const FlexBox = styled.div`
 const SplineWrapper = styled.div`
   flex: 1;
   min-width: 300px;
-  height: 400px; /* reduced from 500px */
+  height: 390px; /* reduced from 500px */
   overflow: hidden;
   border-radius: 12px;
   position: relative;

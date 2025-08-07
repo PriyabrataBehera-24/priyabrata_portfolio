@@ -1,7 +1,8 @@
 import React from "react";
 import styled from "styled-components";
 import { skills } from "../../data/constants";
-import { Tilt } from "react-tilt";
+// import { Tilt } from "react-tilt";
+import Tilt from 'react-parallax-tilt';
 
 const Container = styled.div`
   display: flex;
