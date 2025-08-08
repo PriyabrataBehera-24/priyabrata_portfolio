@@ -8,7 +8,7 @@ This project showcases my skills, projects, and professional experience as a sof
 ## About Me
 
 Hi, I'm Priyabrata Behera, a passionate software developer specializing in web development, React.js, and full-stack projects.  
-This portfolio highlights my technical skills, projects, and contact information.
+This portfolio highlights my technical skills, projects,education,certifications and contact information.
 
 ---
 
@@ -25,7 +25,7 @@ This portfolio highlights my technical skills, projects, and contact information
 ## Demo
 
 You can view the live portfolio here:  
-[https://priyabrata-portfolio-git-cur-a802e7-priyabrata-beheras-projects.vercel.app/]
+[https://priyabrata-portfolio.vercel.app/]
 
 ---
 
