@@ -7,7 +7,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+  " I’m a passionate Full Stack Developer and AI enthusiast, driven by curiosity and a love for building impactful tech solutions. From web apps to ML-powered platforms, I enjoy turning ideas into reality through clean code and smart systems. Always eager to learn and take on new challenges with a growth mindset.",
   github: "https://github.com/PriyabrataBehera-24",
   resume:
     "https://drive.google.com/file/d/1C4VdHg0Me4F-W8dYqEFU_Bjdun1mdIxb/view?usp=sharing",
@@ -409,7 +409,7 @@ export const projects = [
   ],
   category: "web app",
   github: "https://github.com/PriyabrataBehera-24/AIcareercatalyst",
-  webapp: "https://ai-careercatalyst.vercel.app/"
+  live: "https://ai-careercatalyst.vercel.app/"
 },
   {
   id: 2,

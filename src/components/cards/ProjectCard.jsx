@@ -123,9 +123,17 @@ const ProjectCard = ({ project }) => {
           <Avatar src={member.img} />
         ))}
       </Members>
-      <Button href={project.github} target="_blank">
-        View Code
-      </Button>
+    <div style={{ display: "flex", gap: "1rem",justifyContent: "center", marginTop: "1rem" }}>
+  <Button href={project.github} target="_blank">
+    View Code
+  </Button>
+
+  {project.live && (
+    <Button href={project.live} target="_blank">
+      Live
+    </Button>
+  )}
+</div>
     </Card>
   );
 };
