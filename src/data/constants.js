@@ -248,8 +248,28 @@ export const skills = [
 ];
 
 export const experiences = [
+
+ {
+  id: 3,
+  img: require("../images/Capgemini.png"),
+  role: "Software Engineer",
+  company: "Capgemini Technology Services India Pvt. Ltd.",
+  date: "August 2025 – Present",
+  desc: "Working as a Software Engineer with practical and theoretical exposure to DevOps, SQL, Core Java, and Software Testing. Completed advanced training in Cloud Technologies, ECM (OpenText), and Agentic AI. Currently learning SAP VIM (Vendor Invoice Management) to enhance enterprise content management and automation skills.",
+  skills: [
+    "DevOps",
+    "SQL",
+    "Core Java",
+    "Software Testing",
+    "Cloud Technologies",
+    "ECM (OpenText)",
+    "Agentic AI",
+    "SAP VIM"
+  ],
+},
+
   {
-  id: 0,
+  id: 1,
   // img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg",
   img: require("../images/Salesforce-logo.jpg"),
   role: "Salesforce Developer Intern",
