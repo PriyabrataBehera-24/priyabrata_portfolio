@@ -10,7 +10,7 @@ export const Bio = {
   " I’m a passionate Full Stack Developer and AI enthusiast, driven by curiosity and a love for building impactful tech solutions. From web apps to ML-powered platforms, I enjoy turning ideas into reality through clean code and smart systems. Always eager to learn and take on new challenges with a growth mindset.",
   github: "https://github.com/PriyabrataBehera-24",
   resume:
-    "https://drive.google.com/file/d/1C4VdHg0Me4F-W8dYqEFU_Bjdun1mdIxb/view?usp=sharing",
+    "https://drive.google.com/file/d/1Ho-CGop_7fl4Vi7JNtHo50HT4FGvzuEN/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/priyabrata-behera-5b6216214/",
   
 };
@@ -592,4 +592,5 @@ export const projects = [
 }
 
 ];
+
 
